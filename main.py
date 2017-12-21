@@ -1,3 +1,3 @@
 from preprocess import Lexer
-
-x = Lexer()
+def main():
+    pass
