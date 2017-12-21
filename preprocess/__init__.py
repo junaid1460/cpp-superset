@@ -1,1 +1,1 @@
-from .lexer.lexer import Lexer
+from preprocess.lexer import Lexer
