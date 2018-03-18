@@ -1,0 +1,15 @@
+from std import string as String
+declare 'std::string' as String
+
+class Hello:
+    @apply public static
+    function func():String
+        return "Hello world"
+    
+
+@apply constexpr static
+function hello():int
+    return 0
+
+
+x = hello()
