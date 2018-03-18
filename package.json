@@ -1,0 +1,27 @@
+{
+  "name": "cpp-superset",
+  "version": "0.0.0",
+  "description": "C plus plus from Typescript  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junaid1460/cpp-superset.git"
+  },
+  "keywords": [
+    "cpp",
+    "transpiler",
+    "language"
+  ],
+  "author": "Junaid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junaid1460/cpp-superset/issues"
+  },
+  "homepage": "https://github.com/junaid1460/cpp-superset#readme",
+  "dependencies": {
+    "@types/node": "^9.4.7"
+  }
+}
